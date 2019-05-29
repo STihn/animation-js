@@ -1,0 +1,71 @@
+body{
+  background-color:#000;
+  color:white;
+}
+  #demo {
+    width: 240px;
+    height: 400px; 
+    background-color: #333;
+    padding: 8px;
+  }
+ 
+  #ikea1 {
+    position: absolute;
+     width: 240px;
+    height: 400px;    
+    background: url(Artboard_3.png);
+  }
+  
+  #ikea2{
+    position:absolute;
+    
+    width: 240px;
+    height: 400px;
+    background: url(Artboard_8.png);
+    
+}
+#ikea3{
+    position:absolute;
+    top: 200px;
+    left: 100px;
+     width: 240px;
+    height: 400px;
+    background: url(Layer_11.png) no-repeat;
+    
+}
+#ikea4{
+  position:absolute;
+  top: 120px;
+  left: 50px;
+  width: 240px;
+  height: 400px;
+  background: url(hem_01.png) no-repeat;
+  
+}
+#ikea5{
+  position:absolute;
+  width: 240px;
+  height: 400px;
+  background: url(Artboard_9.png);
+ 
+  
+}
+#ikea6{
+  position:absolute;
+  width: 240px;
+  height: 400px;
+  background: url(ikea_button.png)no-repeat;
+  top:265px;
+  left: 45px;
+  width: 194px;
+  height: 65px;
+  
+  
+}
+ 
+  
+
+
+
+
+
